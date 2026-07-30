@@ -1,79 +1,27 @@
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-[2026-07-30T13:10:49.585Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 37596 --ipc-path Unity-Upm-37596 -l 2 --log-file C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game/Logs/upm.log
-[2026-07-30T13:10:49.725Z][INFO] IPC server started (IPC path=Unity-Upm-37596).
-[2026-07-30T13:10:49.726Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-37596.
-[2026-07-30T13:10:56.093Z][INFO] project:list-packages <-- Request received
-=======
-[2026-07-30T14:48:59.105Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 35112 --ipc-path Unity-Upm-35112 -l 2 --log-file C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game/Logs/upm.log
-[2026-07-30T14:48:59.183Z][INFO] IPC server started (IPC path=Unity-Upm-35112).
-[2026-07-30T14:48:59.184Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-35112.
-[2026-07-30T14:49:05.087Z][INFO] project:list-packages <-- Request received
->>>>>>> Stashed changes
+[2026-07-30T14:51:10.959Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 33068 --ipc-path Unity-Upm-33068 -l 2 --log-file C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game/Logs/upm.log
+[2026-07-30T14:51:11.049Z][INFO] IPC server started (IPC path=Unity-Upm-33068).
+[2026-07-30T14:51:11.050Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-33068.
+[2026-07-30T14:51:16.731Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T14:49:05.323Z][INFO] config:project:get-registries <-- Request received
+[2026-07-30T14:51:16.930Z][INFO] project:list-packages --> 200 (200 ms)
+[2026-07-30T14:51:16.956Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-30T14:49:05.339Z][INFO] config:project:get-registries --> 200 (15 ms)
-[2026-07-30T14:49:05.340Z][INFO] project:list-packages --> 200 (253 ms)
-[2026-07-30T14:49:05.352Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:51:16.963Z][INFO] config:project:get-registries --> 200 (7 ms)
+[2026-07-30T14:51:16.970Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T14:49:05.455Z][INFO] project:list-packages --> 200 (104 ms)
-[2026-07-30T14:49:07.609Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:51:17.059Z][INFO] project:list-packages --> 200 (89 ms)
+[2026-07-30T14:51:19.170Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T14:49:07.649Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:51:19.205Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T14:49:07.740Z][INFO] config:project:get-registries <-- Request received
+[2026-07-30T14:51:19.295Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-30T14:49:07.753Z][INFO] config:project:get-registries --> 200 (13 ms)
-[2026-07-30T14:49:07.754Z][INFO] project:list-packages --> 200 (146 ms)
-[2026-07-30T14:49:07.795Z][INFO] project:list-packages --> 200 (146 ms)
-[2026-07-30T14:49:10.139Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:51:19.308Z][INFO] config:project:get-registries --> 200 (13 ms)
+[2026-07-30T14:51:19.309Z][INFO] project:list-packages --> 200 (139 ms)
+[2026-07-30T14:51:19.343Z][INFO] project:list-packages --> 200 (138 ms)
+[2026-07-30T14:51:21.591Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T14:49:10.348Z][INFO] project:list-packages --> 200 (210 ms)
-[2026-07-30T14:49:13.838Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:51:21.736Z][INFO] project:list-packages --> 200 (145 ms)
+[2026-07-30T14:51:25.531Z][INFO] project:list-packages <-- Request received
 params: {}
-<<<<<<< Updated upstream
-[2026-07-30T13:11:06.615Z][INFO] project:list-packages --> 200 (387 ms)
-=======
-[2026-07-30T13:15:37.205Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 2264 --ipc-path Unity-Upm-2264 -l 2 --log-file 'C:\\Users\\barna\\Documents\\home\\game with jenson\\Open-World-Game/Logs/upm.log'
-[2026-07-30T13:15:37.367Z][INFO] IPC server started (IPC path=Unity-Upm-2264).
-[2026-07-30T13:15:37.368Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-2264.
-[2026-07-30T13:15:42.721Z][INFO] project:list-packages <-- Request received
-=======
-[2026-07-30T13:16:54.938Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 13788 --ipc-path Unity-Upm-13788 -l 2 --log-file 'C:\\Users\\barna\\Documents\\home\\game with jenson\\Open-World-Game/Logs/upm.log'
-[2026-07-30T13:16:55.038Z][INFO] IPC server started (IPC path=Unity-Upm-13788).
-[2026-07-30T13:16:55.038Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-13788.
-[2026-07-30T13:17:00.337Z][INFO] project:list-packages <-- Request received
->>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
-params: {}
-[2026-07-30T13:17:00.684Z][INFO] project:list-packages --> 200 (347 ms)
-[2026-07-30T13:17:00.712Z][INFO] config:project:get-registries <-- Request received
-params: {}
-[2026-07-30T13:17:00.726Z][INFO] config:project:get-registries --> 200 (14 ms)
-[2026-07-30T13:17:00.756Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T13:17:01.046Z][INFO] project:list-packages --> 200 (290 ms)
-[2026-07-30T13:17:03.983Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T13:17:04.055Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T13:17:04.245Z][INFO] project:list-packages --> 200 (262 ms)
-[2026-07-30T13:17:04.253Z][INFO] config:project:get-registries <-- Request received
-params: {}
-[2026-07-30T13:17:04.322Z][INFO] config:project:get-registries --> 200 (68 ms)
-[2026-07-30T13:17:04.323Z][INFO] project:list-packages --> 200 (268 ms)
-[2026-07-30T13:17:07.316Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T13:17:07.537Z][INFO] project:list-packages --> 200 (222 ms)
-[2026-07-30T13:17:11.875Z][INFO] project:list-packages <-- Request received
-params: {}
-<<<<<<< HEAD
-[2026-07-30T13:15:55.869Z][INFO] project:list-packages --> 200 (391 ms)
->>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
-=======
-[2026-07-30T13:17:12.279Z][INFO] project:list-packages --> 200 (404 ms)
->>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
-=======
-[2026-07-30T14:49:14.253Z][INFO] project:list-packages --> 200 (415 ms)
->>>>>>> Stashed changes
+[2026-07-30T14:51:25.911Z][INFO] project:list-packages --> 200 (380 ms)
