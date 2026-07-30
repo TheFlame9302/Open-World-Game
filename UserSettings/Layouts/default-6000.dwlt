@@ -632,7 +632,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Packages
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -642,7 +642,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Packages
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Jenso\OneDrive\Documents\GitHub\Open-World-Game
   m_LockTracker:
@@ -652,6 +652,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - m_rawData: 568105584918811980
     m_LastClickedID:
       m_rawData: 568105584918811980
@@ -660,6 +661,11 @@ MonoBehaviour:
     m_LastClickedID:
       m_rawData: 568105584918811968
 >>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+=======
+    - m_rawData: 568105587066273791
+    m_LastClickedID:
+      m_rawData: 568105587066273791
+>>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
     m_ExpandedIDs:
     - m_rawData: 568105589213755776
     - m_rawData: 0
@@ -738,9 +744,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
+    m_SelectedInstanceIDs:
+    - m_rawData: 568105584918811898
     m_LastClickedEntityId:
-      m_rawData: 0
+      m_rawData: 568105584918811898
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -870,9 +877,10 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_rawData: 568105584918811898
       m_LastClickedID:
-        m_rawData: 0
+        m_rawData: 568105584918811898
       m_ExpandedIDs:
       - m_rawData: 568105589213756088
       m_RenameOverlay:
@@ -1303,6 +1311,7 @@ MonoBehaviour:
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.858449, y: 8.217011, z: 25.722828}
     speed: 2
     m_Value: {x: -0.858449, y: 8.217011, z: 25.722828}
@@ -1311,6 +1320,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -1.0461626, y: -0.6895523, z: 1.2421293}
 >>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+=======
+    m_Target: {x: -0.077427864, y: 7.371292, z: -0.30755773}
+    speed: 2
+    m_Value: {x: -0.077427864, y: 7.371292, z: -0.30755773}
+>>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1358,6 +1372,7 @@ MonoBehaviour:
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.019126955, y: 0.97991323, z: -0.116377704, w: 0.16105719}
     speed: 2
     m_Value: {x: 0.019319417, y: 0.9797342, z: -0.11754887, w: 0.16102777}
@@ -1367,13 +1382,20 @@ MonoBehaviour:
     m_Value: 1.2247462
 =======
     m_Target: {x: -0.10302957, y: -0.45814332, z: 0.053603746, w: -0.88129026}
+=======
+    m_Target: {x: -0.010697323, y: 0.9608106, z: -0.2746175, w: -0.037190743}
+>>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
     speed: 2
-    m_Value: {x: 0.103029564, y: 0.45814332, z: -0.053603742, w: 0.88129026}
+    m_Value: {x: -0.010285028, y: 0.960832, z: -0.2746237, w: -0.035748247}
   m_Size:
-    m_Target: 14.487769
+    m_Target: 10.519053
     speed: 2
+<<<<<<< HEAD
     m_Value: 14.487769
 >>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+=======
+    m_Value: 11.014716
+>>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
   m_Ortho:
     m_Target: 0
     speed: 2

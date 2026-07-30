@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [2026-07-30T13:10:49.585Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 37596 --ipc-path Unity-Upm-37596 -l 2 --log-file C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game/Logs/upm.log
 [2026-07-30T13:10:49.725Z][INFO] IPC server started (IPC path=Unity-Upm-37596).
 [2026-07-30T13:10:49.726Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-37596.
@@ -31,27 +32,37 @@ params: {}
 [2026-07-30T13:15:37.367Z][INFO] IPC server started (IPC path=Unity-Upm-2264).
 [2026-07-30T13:15:37.368Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-2264.
 [2026-07-30T13:15:42.721Z][INFO] project:list-packages <-- Request received
+=======
+[2026-07-30T13:16:54.938Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 13788 --ipc-path Unity-Upm-13788 -l 2 --log-file 'C:\\Users\\barna\\Documents\\home\\game with jenson\\Open-World-Game/Logs/upm.log'
+[2026-07-30T13:16:55.038Z][INFO] IPC server started (IPC path=Unity-Upm-13788).
+[2026-07-30T13:16:55.038Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-13788.
+[2026-07-30T13:17:00.337Z][INFO] project:list-packages <-- Request received
+>>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
 params: {}
-[2026-07-30T13:15:43.131Z][INFO] project:list-packages --> 200 (411 ms)
-[2026-07-30T13:15:43.169Z][INFO] config:project:get-registries <-- Request received
+[2026-07-30T13:17:00.684Z][INFO] project:list-packages --> 200 (347 ms)
+[2026-07-30T13:17:00.712Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-30T13:15:43.189Z][INFO] config:project:get-registries --> 200 (20 ms)
-[2026-07-30T13:15:43.229Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:17:00.726Z][INFO] config:project:get-registries --> 200 (14 ms)
+[2026-07-30T13:17:00.756Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T13:15:43.473Z][INFO] project:list-packages --> 200 (245 ms)
-[2026-07-30T13:15:47.179Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:17:01.046Z][INFO] project:list-packages --> 200 (290 ms)
+[2026-07-30T13:17:03.983Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T13:15:47.267Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:17:04.055Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T13:15:47.510Z][INFO] config:project:get-registries <-- Request received
+[2026-07-30T13:17:04.245Z][INFO] project:list-packages --> 200 (262 ms)
+[2026-07-30T13:17:04.253Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-30T13:15:47.533Z][INFO] project:list-packages --> 200 (355 ms)
-[2026-07-30T13:15:47.617Z][INFO] config:project:get-registries --> 200 (107 ms)
-[2026-07-30T13:15:47.619Z][INFO] project:list-packages --> 200 (352 ms)
-[2026-07-30T13:15:50.789Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:17:04.322Z][INFO] config:project:get-registries --> 200 (68 ms)
+[2026-07-30T13:17:04.323Z][INFO] project:list-packages --> 200 (268 ms)
+[2026-07-30T13:17:07.316Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T13:15:51.017Z][INFO] project:list-packages --> 200 (228 ms)
-[2026-07-30T13:15:55.478Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:17:07.537Z][INFO] project:list-packages --> 200 (222 ms)
+[2026-07-30T13:17:11.875Z][INFO] project:list-packages <-- Request received
 params: {}
+<<<<<<< HEAD
 [2026-07-30T13:15:55.869Z][INFO] project:list-packages --> 200 (391 ms)
 >>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+=======
+[2026-07-30T13:17:12.279Z][INFO] project:list-packages --> 200 (404 ms)
+>>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
