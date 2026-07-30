@@ -1,12 +1,17 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.5/staging' branch; Version is '6000.5.6f1 (0e0577a1a2ac) revision 918903'; Using compiler version '194234433'; Build Type 'Release'
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 [Licensing::IpcConnector] Successfully connected to: "LicenseClient-Jenso" at "2026-07-30T13:04:47.5464506Z"
+=======
+>>>>>>> Stashed changes
 OS: 'Windows 11  (10.0.26200) Core' Language: 'en' Physical Memory: 7518 MB
 BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Jenso" at "2026-07-30T14:47:21.763454Z"
 System  architecture: x64
 Process architecture: x64
+<<<<<<< Updated upstream
 Date: 2026-07-30T13:04:47Z
 =======
 =======
@@ -24,6 +29,9 @@ Date: 2026-07-30T13:12:37Z
 =======
 Date: 2026-07-30T13:15:35Z
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+Date: 2026-07-30T14:47:21Z
+>>>>>>> Stashed changes
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.5.6f1\Editor\Unity.exe
@@ -39,15 +47,9 @@ LicenseClient-Jenso
 -hubSessionId
 11aaf521-ebe8-473a-9d89-4e781a3f0e87
 -accessToken
-<<<<<<< HEAD
-YXOFKq6f2fFLOGaQmcTNIc0AdsiAYqkWVZfJ08NlR84005f
+lum4YUqzx0pcHUMjLpFckY8kwDVC8--lMKkO0vrR_pU005f
 Successfully changed project path to: C:\Users\Jenso\OneDrive\Documents\GitHub\Open-World-Game
 C:/Users/Jenso/OneDrive/Documents/GitHub/Open-World-Game
-=======
-NlXYLr7VhTt59TTH6ostxA5um_8w5rGJkWqnoYJnby4005f
-Successfully changed project path to: C:\Users\barna\Documents\home\game with jenson\Open-World-Game
-C:/Users/barna/Documents/home/game with jenson/Open-World-Game
->>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
@@ -84,17 +86,22 @@ C:/Users/barna/Documents/home/game with jenson/Open-World-Game
     "memorysetup-job-temp-allocator-block-size=2097152"
     "memorysetup-job-temp-allocator-block-size-background=1048576"
     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 Player connection [19916]  Target information:
+=======
+Player connection [31852]  Target information:
+>>>>>>> Stashed changes
 
-Player connection [19916]  * "[IP] 192.168.0.180 [Port] 55504 [Flags] 2 [Guid] 492381441 [EditorId] 492381441 [Version] 1048832 [Id] WindowsEditor(7,Jenson) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [31852]  * "[IP] 192.168.0.180 [Port] 55504 [Flags] 2 [Guid] 113951935 [EditorId] 113951935 [Version] 1048832 [Id] WindowsEditor(7,Jenson) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [19916] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [19916] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [31852] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [31852] Host joined alternative multi-casting on [225.0.0.222:34997]...
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
+<<<<<<< Updated upstream
 [Package Manager] Connected to IPC stream "Upm-32684" after 0.7 seconds.
 =======
 Player connection [9608]  Target information:
@@ -115,30 +122,33 @@ Input System module state changed to: Initialized.
 =======
 [Package Manager] Connected to IPC stream "Upm-2264" after 1.2 seconds.
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+[Package Manager] Connected to IPC stream "Upm-3840" after 0.7 seconds.
+>>>>>>> Stashed changes
 [Licensing::Module] Licensing is not yet initialized.
 [Licensing::Client] Error: HandshakeResponse reported an error:
 	ResponseCode: 505
 	ResponseStatus: Unsupported protocol version '1.18.1'.
-<<<<<<< HEAD
 [Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Jenso"
 [Licensing::IpcConnector] LicenseClient-Jenso channel disconnected successfully.
 [Licensing::IpcConnector] Channel LicenseClient-Jenso-6000.5.6 doesn't exist
-[Licensing::Module] Successfully launched the LicensingClient (PId: 23868)
+[Licensing::Module] Successfully launched the LicensingClient (PId: 16704)
 Starting IPC server.
 Waiting for clients to connect on \\.\pipe\Unity-LicenseClient-Jenso-6000.5.6, press Ctrl-C to exit.
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Jenso-6000.5.6" at "2026-07-30T13:04:50.7219194Z"
-[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 23868, path: "C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Jenso-6000.5.6" at "2026-07-30T14:47:24.8861657Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 16704, path: "C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
 [Licensing::Module] LicensingClient has failed validation; ignoring
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.18.1+9fbee8e
-  Session Id:              648218fd4618491da81d60b8b76c76be
-  Correlation Id:          4cb5c4d38c849b8e9668d742b573ed24
-  External correlation Id: 3521600180699266158
+  Session Id:              f29fef698b50435392e4f2557e007903
+  Correlation Id:          6386f096daf6f39de1a8880d7b7a7ab8
+  External correlation Id: 1132734958356558371
   Machine Id:              6p94kqasDlUFSYHonAQip4tjKMU=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Jenso-6000.5.6" (connect: 0.57s, validation: 0.41s, handshake: 0.01s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Jenso-6000.5.6-notifications" at "2026-07-30T13:04:51.1380454Z"
-[Licensing::Module] Connected to LicensingClient (PId: 23868, launch time: 0.03, total connection time: 0.98s)
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Jenso-6000.5.6" (connect: 0.57s, validation: 0.28s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Jenso-6000.5.6-notifications" at "2026-07-30T14:47:25.1781754Z"
+[Licensing::Module] Connected to LicensingClient (PId: 16704, launch time: 0.03, total connection time: 0.86s)
 [Licensing::Client] Successfully updated the access token
+<<<<<<< Updated upstream
 [Licensing::Module] Successfully updated the access token YXOFKq6f2f...
 =======
 [Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Barney"
@@ -157,6 +167,9 @@ Waiting for clients to connect on \\.\pipe\Unity-LicenseClient-Jenso-6000.5.6, p
 [Licensing::Client] Successfully updated the access token
 [Licensing::Module] Successfully updated the access token NlXYLr7VhT...
 >>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+=======
+[Licensing::Module] Successfully updated the access token lum4YUqzx0...
+>>>>>>> Stashed changes
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Module] License group:
   Id: 5774094783317-UnityPersXXXX
@@ -165,6 +178,7 @@ Waiting for clients to connect on \\.\pipe\Unity-LicenseClient-Jenso-6000.5.6, p
   Expiration: Unlimited
 [Licensing::Client] Successfully updated license, isAsync: True, time: 0.02
 [Licensing::Client] Successfully resolved entitlement details
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 [Licensing::Module] Licensing Background thread has ended after 3.65s
@@ -177,6 +191,10 @@ Waiting for clients to connect on \\.\pipe\Unity-LicenseClient-Jenso-6000.5.6, p
 [Licensing::Module] Licensing Background thread has ended after 3.66s
 [Licensing::Module] Licensing is initialized (took 2.03s).
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+[Licensing::Module] Licensing Background thread has ended after 3.47s
+[Licensing::Module] Licensing is initialized (took 2.14s).
+>>>>>>> Stashed changes
 [Licensing::Client] Successfully resolved entitlement details
 Library Redirect Path: Library/
 [Physics::Module] Selected backend.
@@ -185,10 +203,8 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Artifact Garbage Collection - Removed 8 unused hashed content files
 Initialize engine version: 6000.5.6f1 (0e0577a1a2ac)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/Resources/UnitySubsystems
-<<<<<<< HEAD
 [Subsystems] Discovering subsystems at path C:/Users/Jenso/OneDrive/Documents/GitHub/Open-World-Game/Assets
 [D3D12 Device Filter] Vendor Name: NVIDIA
 [D3D12 Device Filter] Device Name: NVIDIA GeForce RTX 3050 Laptop GPU
@@ -199,11 +215,6 @@ Initialize engine version: 6000.5.6f1 (0e0577a1a2ac)
 [D3D12 Device Filter] Device Type: Discrete
 GfxDevice: creating device client; kGfxThreadingModeSplitJobs
 d3d12: failed to query info queue interface (0x80004002).
-=======
-[Subsystems] Discovering subsystems at path C:/Users/barna/Documents/home/game with jenson/Open-World-Game/Assets
-d3d12: failed to create D3D12 device (0x887a0004).
-GfxDevice: creating device client; kGfxThreadingModeThreaded
->>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
 Direct3D:
     Version:         Direct3D 12 [level 12.2]
     Renderer:        NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
@@ -216,6 +227,7 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/Managed
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
 Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
@@ -225,6 +237,9 @@ Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,susp
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56840
+>>>>>>> Stashed changes
 CodeReloadManager initialized
 ImportWorker Server TCP listen port: 0
 AcceleratorClientConnectionCallback - disconnected - :0
@@ -232,6 +247,7 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.008673 seconds.
@@ -241,11 +257,15 @@ Registered in 0.009597 seconds.
 =======
 Registered in 0.009846 seconds.
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+Registered in 0.007293 seconds.
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Package Manager log level set to [2]
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Finished resetting the current domain, in  0.731 seconds
@@ -306,6 +326,26 @@ Domain Reload Profiling: 2922ms
 			ProcessInitializeOnLoadAttributes (268ms)
 			ProcessInitializeOnLoadMethodAttributes (504ms)
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+- Finished resetting the current domain, in  0.719 seconds
+Domain Reload Profiling: 1573ms
+	BeginReloadAssembly (252ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (130ms)
+	LoadAllAssembliesAndSetupDomain (432ms)
+		LoadAssemblies (227ms)
+		AnalyzeDomain (320ms)
+			TypeCache.Refresh (318ms)
+				TypeCache.ScanAssembly (296ms)
+	FinalizeReload (725ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			BeforeProcessingInitializeOnLoad (144ms)
+			ProcessInitializeOnLoadAttributes (164ms)
+			ProcessInitializeOnLoadMethodAttributes (294ms)
+>>>>>>> Stashed changes
 [Licensing::Client] Successfully resolved entitlement details
 Application.AssetDatabase Initial Refresh Start
 [Package Manager] Restoring resolved packages state from cache
@@ -350,6 +390,7 @@ Application.AssetDatabase Initial Refresh Start
     com.unity.modules.subsystems@1.0.0 (location: C:\Users\Jenso\OneDrive\Documents\GitHub\Open-World-Game\Library\PackageCache\com.unity.modules.subsystems)
     com.unity.modules.hierarchycore@1.0.0 (location: C:\Users\Jenso\OneDrive\Documents\GitHub\Open-World-Game\Library\PackageCache\com.unity.modules.hierarchycore)
 [Subsystems] No new subsystems found in resolved package list.
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 [Package Manager] Done registering packages in 0.02 seconds
@@ -359,6 +400,9 @@ Application.AssetDatabase Initial Refresh Start
 =======
 [Package Manager] Done registering packages in 0.04 seconds
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+[Package Manager] Done registering packages in 0.02 seconds
+>>>>>>> Stashed changes
 info: Microsoft.Hosting.Lifetime[14]
       Now listening on: http://localhost:80
 info: Microsoft.Hosting.Lifetime[0]
@@ -374,6 +418,7 @@ info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
 info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
       Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
 info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
       Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping - 200 - application/grpc 39.4626ms
@@ -402,11 +447,20 @@ ExitCode: 0 Duration: 0s308ms
 Total cache size after purge 237068, took 00:00:00.0276362
 AssetDatabase: script compilation time: 1.196414s
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping - 200 - application/grpc 38.4082ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.6f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/Jenso/OneDrive/Documents/GitHub/Open-World-Game
+ExitCode: 0 Duration: 0s179ms
+*** Tundra build success (0.07 seconds), 0 items updated, 169 evaluated
+AssetDatabase: script compilation time: 0.820074s
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Finished resetting the current domain, in  0.728 seconds
@@ -421,19 +475,33 @@ Domain Reload Profiling: 1419ms
 		LoadAssemblies (166ms)
 		AnalyzeDomain (13ms)
 			TypeCache.Refresh (8ms)
+=======
+- Finished resetting the current domain, in  0.770 seconds
+Domain Reload Profiling: 1648ms
+	BeginReloadAssembly (564ms)
+		DisableScriptedObjects (88ms)
+		CreateAndSetChildDomain (210ms)
+	RebuildCommonClasses (13ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (119ms)
+	LoadAllAssembliesAndSetupDomain (151ms)
+		LoadAssemblies (190ms)
+		AnalyzeDomain (25ms)
+			TypeCache.Refresh (19ms)
+				TypeCache.ScanAssembly (3ms)
+>>>>>>> Stashed changes
 			BuildScriptInfoCaches (4ms)
-	FinalizeReload (732ms)
+	FinalizeReload (774ms)
 		SetupLoadedEditorAssemblies (0ms)
 			InitializePlatformSupportModulesInManaged (4ms)
-			BeforeProcessingInitializeOnLoad (112ms)
-			ProcessInitializeOnLoadAttributes (138ms)
-			ProcessInitializeOnLoadMethodAttributes (108ms)
-			AfterProcessingInitializeOnLoad (18ms)
-		AwakeInstancesAfterBackupRestoration (40ms)
-Importing 'GUID: d61b1cb6d4904d74b92bef7fa166c12b - Path: Assets/cylinder.unity' with importer (DefaultImporter)
-Imported 'GUID: d61b1cb6d4904d74b92bef7fa166c12b' -> (Import Result ID: '3927c892bacd424165f63eec411fbabb') in 0.037 seconds [static dependencies only]. Details - ImportResultOutputID=fce76f82a3605a605fce742591d6a520 DependenciesID=1f67a5b190043f510ad628a820b9a27b StaticDependenciesID=c33dd87d66477d8ae196a072ee3dde8a 
+			BeforeProcessingInitializeOnLoad (122ms)
+			ProcessInitializeOnLoadAttributes (157ms)
+			ProcessInitializeOnLoadMethodAttributes (145ms)
+			AfterProcessingInitializeOnLoad (20ms)
+		AwakeInstancesAfterBackupRestoration (44ms)
 Starting new worker id: 0 with log in C:/Users/Jenso/OneDrive/Documents/GitHub/Open-World-Game/Logs/AssetImportWorkerHW0.log
 
+<<<<<<< Updated upstream
 Asset Pipeline Refresh (id=ddd4bdc4af8ca6b448baee7a905bd95f): Total: 2.958 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
 	(Values over 0.05ms)
 	Summary:
@@ -582,12 +650,55 @@ Scanning for USB devices : 109.057ms
 =======
 Scanning for USB devices : 100.313ms
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+Asset Pipeline Refresh (id=8a94526edebc96b4c844396156be4188): Total: 2.966 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=1063 ms
+		Asset DB Callback time: managed=79 ms, native=26 ms
+		Scripting: domain reloads=1, domain reload time=951 ms, compile time=825 ms, other=19 ms
+		Project Asset Count: scripts=113, non-scripts=82
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 30.852ms
+	ApplyChangesToAssetFolders: 1.439ms
+	Scan: 81.344ms
+	Collect global state as custom dependencies: 19.677ms
+	CategorizeScriptCompilationAssets: 0.499ms
+	ProcessAssetsWithTransientArtifactChanges: 2.719ms
+	CategorizeAssets: 9.826ms
+	CompileScripts: 825.014ms
+	ImportOutOfDateAssets: 848.146ms (780.256ms without children)
+		UnloadImportedAssets: 0.240ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.068ms
+		ImportSchedulerStart: 67.578ms
+	PostProcessAllAssets: 79.980ms
+		MonoPostProcessAllAssets: 79.705ms
+			SyncVS.PostprocessSyncProject 40.141ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 14.519ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 2.151ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 2.080ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.516ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.385ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.238ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.128ms
+	UnloadStreamsBegin: 2.722ms
+	GenerateScriptTypeHashes: 0.976ms
+	GenerateScriptTypeSerializationHashes: 1.910ms
+	Untracked: 1050.990ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Scanning for USB devices : 5.226ms
+>>>>>>> Stashed changes
 Initializing Unity extensions:
 [MODES] ModeService[none].Initialize
 [MODES] ModeService[none].LoadModes
 [MODES] Loading mode Default (0) for mode-current-id-Open-World-Game
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
 Loaded scene 'Assets/cylinder.unity'
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 	Deserialize:            3.666 ms
@@ -598,6 +709,16 @@ Loaded scene 'Assets/cylinder.unity'
 Unloading 76 unused Assets / (484.1 KB). Loaded Objects now: 747.
 Memory consumption went from 204.0 MB to 203.6 MB.
 Total: 19.541200 ms (FindLiveObjects: 0.404700 ms CreateObjectMapping: 0.045900 ms MarkObjects: 18.099000 ms  DeleteObjects: 0.816400 ms)
+=======
+	Deserialize:            4.824 ms
+	Integration:            42.290 ms
+	Integration of assets:  0.235 ms
+	Thread Wait Time:       -0.211 ms
+	Total Operation Time:   47.138 ms
+Unloading 76 unused Assets / (478.7 KB). Loaded Objects now: 752.
+Memory consumption went from 202.1 MB to 201.6 MB.
+Total: 14.077700 ms (FindLiveObjects: 0.081900 ms CreateObjectMapping: 0.026000 ms MarkObjects: 12.748200 ms  DeleteObjects: 1.048100 ms)
+>>>>>>> Stashed changes
 
 [LAYOUT] About to load UserSettings\Layouts\default-6000.dwlt, keepMainWindow=False
 The file 'UserSettings\Layouts\default-6000.dwlt' seems to have merge conflicts. Please open it in a text editor and fix the merge.
@@ -659,6 +780,7 @@ UnityEditor.WindowLayout:LoadDefaultWindowPreferences ()
 [ line 0]
 
 [LAYOUT] About to save layout C:/Users/Jenso/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+<<<<<<< Updated upstream
 =======
 	Deserialize:            2.112 ms
 	Integration:            17.760 ms
@@ -681,26 +803,27 @@ Total: 14.811000 ms (FindLiveObjects: 0.118700 ms CreateObjectMapping: 0.027500 
 [LAYOUT] About to save layout C:\Users\barna\Documents\home\game with jenson\Open-World-Game\UserSettings\Layouts\default-6000.dwlt
 [LAYOUT] About to save layout C:/Users/barna/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
 >>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+=======
+>>>>>>> Stashed changes
 [MODES] ModeService[default].InitializeCurrentMode
 [MODES] ModeService[default].RaiseModeChanged(default, default)
 This project uses Input Manager, which is marked for deprecation. To manage input in your project, use the <a href="https://docs.unity3d.com/Packages/com.unity.inputsystem@latest">Input System package</a> instead.
 <RI> Initializing input.
 <RI> Input initialized.
-<<<<<<< HEAD
-[Project] Loading completed in 14.045 seconds
-	Project init time: 				11.402 seconds
+[Project] Loading completed in 13.508 seconds
+	Project init time: 				11.096 seconds
 		Template init time: 		0.000 seconds
-		Package Manager init time: 		2.769 seconds
-		Asset Database init time: 		1.624 seconds
-		Global illumination init time: 	0.015 seconds
-		Assemblies load time: 			1.804 seconds
-		Unity extensions init time: 	0.001 seconds
-		Asset Database refresh time: 	2.960 seconds
-	Scene opening time: 			2.028 seconds
-##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1785416701558,"processId":32684,"projectLoad":14.045403499999999,"projectInit":11.4016825,"templateInit":0.0,"packageManagerInit":2.7688177,"assetDatabaseInit":1.6242452,"globalIlluminationInit":0.0147384,"assembliesLoad":1.8035094,"unityExtensionsInit":0.0009806,"assetDatabaseRefresh":2.9604179,"sceneOpening":2.0280003}
-##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1785416701559,"processId":32684,"editorVersion":"6000.5.6f1 (0e0577a1a2ac)","branch":"6000.5/staging","buildType":"Release","platform":"Windows"}
-Asset Pipeline Refresh (id=f1e3429286660394f8a56adf1e74b17e): Total: 0.063 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+		Package Manager init time: 		2.839 seconds
+		Asset Database init time: 		1.343 seconds
+		Global illumination init time: 	0.014 seconds
+		Assemblies load time: 			1.751 seconds
+		Unity extensions init time: 	0.002 seconds
+		Asset Database refresh time: 	2.967 seconds
+	Scene opening time: 			1.912 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1785422855252,"processId":3840,"projectLoad":13.5079387,"projectInit":11.0958054,"templateInit":0.0,"packageManagerInit":2.8393403,"assetDatabaseInit":1.3430545,"globalIlluminationInit":0.0141273,"assembliesLoad":1.7508495,"unityExtensionsInit":0.0023132,"assetDatabaseRefresh":2.9673514,"sceneOpening":1.9118497}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1785422855253,"processId":3840,"editorVersion":"6000.5.6f1 (0e0577a1a2ac)","branch":"6000.5/staging","buildType":"Release","platform":"Windows"}
 Worker ready: AssetImportWorkerHW0 0
+<<<<<<< Updated upstream
 =======
 GpuFence::Create(): Failed to create ID3D11Fence, error 0x80070057
 [Project] Loading completed in 15.451 seconds
@@ -722,6 +845,9 @@ Asset Pipeline Refresh (id=9a394537fc1ef3146823751e4201cb96): Total: 0.054 secon
 >>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
 =======
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+Asset Pipeline Refresh (id=ce30433471af2934baafb780d9c55ac9): Total: 0.135 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+>>>>>>> Stashed changes
 Dynamic Batching is deprecated and will be removed in a future release. Use GPU Instancing instead. Disable Dynamic Batching in Project Settings > Player > Other Settings to remove this warning.
 UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
@@ -734,16 +860,20 @@ UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
 
 Start Indexing on Editor startup
 [Indexing] Starting Initial Indexing for Assets
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 Created GICache directory at C:/Users/Jenso/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.063s, timestamps: [16.819 - 16.882]
+=======
+Created GICache directory at C:/Users/Jenso/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.203s, timestamps: [16.452 - 16.655]
+>>>>>>> Stashed changes
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Client] Successfully updated the access token
-[Licensing::Module] Successfully updated access token: "YXOFKq6f"... (expires: 2026-07-30T14:13:55Z)
-[Worker0] Imported GUID: d61b1cb6d4904d74b92bef7fa166c12b - Path: Assets/cylinder.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: 'e4f13a3f155c8fb540ca57c8a56f9f3f') in 0.1249997 seconds
+[Licensing::Module] Successfully updated access token: "lum4YUqz"... (expires: 2026-07-30T16:13:16Z)
 [Licensing::Client] Successfully resolved entitlement details
 TrimDiskCacheJob: Current cache size 0mb
+<<<<<<< Updated upstream
 Asset Pipeline Refresh (id=c08b439d4e2bf5b48a2ad28a55d69d72): Total: 0.085 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
 Asset Pipeline Refresh (id=1ce8400df36207b47b33650eb7dbaefc): Total: 0.027 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
 MonoPathRemapper: Attempts to remap: 2692; Successful remaps: 420
@@ -761,6 +891,9 @@ Asset Pipeline Refresh (id=073354f6f4e1baf428ede4616da17be4): Total: 0.031 secon
 Asset Pipeline Refresh (id=873b873993436fa48aec7d079b1f625e): Total: 0.008 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
 MonoPathRemapper: Attempts to remap: 1554; Successful remaps: 364
 >>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+=======
+MonoPathRemapper: Attempts to remap: 3032; Successful remaps: 420
+>>>>>>> Stashed changes
 Serialized file version minimum: 23, current 23
 [LAYOUT] About to save layout C:\Users\Jenso\OneDrive\Documents\GitHub\Open-World-Game\UserSettings\Layouts\default-6000.dwlt
 [LAYOUT] About to save layout C:/Users/Jenso/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
@@ -769,25 +902,25 @@ Serialized file version minimum: 23, current 23
 Input System module state changed to: ShutdownInProgress.
 Input Polling Thread exited.
 Input System module state changed to: Shutdown.
-<<<<<<< HEAD
 [Licensing::IpcConnector] LicenseClient-Jenso-6000.5.6-notifications channel disconnected successfully.
 [Licensing::IpcConnector] LicenseClient-Jenso-6000.5.6 channel disconnected successfully.
 Shut down.
 AcceleratorClientConnectionCallback - disconnected - :0
 Cleanup mono
 CodeReloadManager destroyed
-abort_threads: Failed aborting id: 0000000000008EC8, mono_thread_manage will ignore it
+abort_threads: Failed aborting id: 00000000000085DC, mono_thread_manage will ignore it
 
-abort_threads: Failed aborting id: 0000000000007418, mono_thread_manage will ignore it
+abort_threads: Failed aborting id: 0000000000009270, mono_thread_manage will ignore it
 
-abort_threads: Failed aborting id: 0000000000008EC8, mono_thread_manage will ignore it
+abort_threads: Failed aborting id: 00000000000085DC, mono_thread_manage will ignore it
 
-abort_threads: Failed aborting id: 0000000000007418, mono_thread_manage will ignore it
+abort_threads: Failed aborting id: 0000000000009270, mono_thread_manage will ignore it
 
-debugger-agent: Unable to listen on 5012
+debugger-agent: Unable to listen on 4848
 Checking for leaked weakptr:
   Found no leaked weakptrs.
 [Package Manager] Server process was shutdown
+<<<<<<< Updated upstream
 ##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1785416932413,"processId":32684,"allocatedMemory":46562898,"memoryLabels":[{"Default":168872},{"Permanent":15516},{"NewDelete":67437},{"Thread":4209784},{"Manager":32584},{"VertexData":8},{"Geometry":816},{"Texture":24},{"Shader":849106},{"Material":24},{"GfxDevice":62072},{"GfxThread":13824},{"Animation":952},{"Audio":1544},{"FreeType":8},{"FontEngine":736},{"Physics":2146},{"Physics2D":16},{"Serialization":188536},{"Input":42840},{"JobScheduler":256},{"TextLib":19030},{"Mono":48},{"ScriptingNativeRuntime":674964},{"BaseObject":1696585},{"Resource":1208},{"Renderer":3080},{"Transform":4685},{"File":4001},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":9670},{"StaticString":3808},{"Utility":2673450},{"Curl":48},{"PoolAlloc":2168},{"AI":80},{"TypeTree":8869},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":7208},{"WebRequest":6795},{"VR":47114},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"NativeArray":33039456},{"Camera":40217},{"Secure":265},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":552},{"Hierarchy":1176},{"UIElements":1200784},{"CoreStats":13688},{"Identifiers":6768},{"Gui":267608},{"EditorUtility":245569},{"VersionControl":8},{"Undo":931},{"AssetDatabase":495106},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":35345},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":64},{"DrivenProperties":72},{"LocalIPC":211},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3480},{"Windowing":456},{"Licensing":664},{"AssetReference":32},{"IPCStream":32}]}
 =======
 [Licensing::IpcConnector] LicenseClient-Barney-6000.5.6-notifications channel disconnected successfully.
@@ -813,3 +946,6 @@ Checking for leaked weakptr:
 =======
 ##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1785417371995,"processId":2264,"allocatedMemory":46140031,"memoryLabels":[{"Default":166343},{"Permanent":15516},{"NewDelete":66701},{"Thread":4197560},{"Manager":18437},{"VertexData":8},{"Geometry":816},{"Texture":24},{"Shader":847344},{"Material":24},{"GfxDevice":55328},{"Animation":952},{"Audio":1544},{"FreeType":8},{"FontEngine":736},{"Physics":2146},{"Physics2D":16},{"Serialization":47952},{"Input":42840},{"JobScheduler":256},{"TextLib":10582},{"Mono":48},{"ScriptingNativeRuntime":674964},{"BaseObject":1674185},{"Resource":1208},{"Renderer":3080},{"Transform":4685},{"File":4001},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":9644},{"StaticString":3808},{"Utility":2672338},{"Curl":48},{"PoolAlloc":2168},{"AI":80},{"TypeTree":8869},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":7208},{"WebRequest":7386},{"VR":47114},{"SceneManager":608},{"Video":112},{"LazyScriptCache":32},{"NativeArray":33043456},{"Camera":169},{"Secure":265},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":552},{"Hierarchy":1176},{"UIElements":1102240},{"CoreStats":13688},{"Identifiers":6768},{"Gui":267608},{"EditorUtility":181112},{"VersionControl":8},{"Undo":931},{"AssetDatabase":495288},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":35385},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":64},{"DrivenProperties":72},{"LocalIPC":212},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3480},{"Windowing":456},{"Licensing":664},{"AssetReference":32},{"IPCStream":32}]}
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1785422925593,"processId":3840,"allocatedMemory":46590955,"memoryLabels":[{"Default":167879},{"Permanent":15516},{"NewDelete":67357},{"Thread":4209784},{"Manager":32584},{"VertexData":8},{"Geometry":816},{"Texture":24},{"Shader":849106},{"Material":24},{"GfxDevice":62072},{"GfxThread":13824},{"Animation":952},{"Audio":1544},{"FreeType":8},{"FontEngine":736},{"Physics":2146},{"Physics2D":16},{"Serialization":159272},{"Input":42840},{"JobScheduler":256},{"TextLib":19030},{"Mono":48},{"ScriptingNativeRuntime":674964},{"BaseObject":1675721},{"Resource":1208},{"Renderer":3080},{"Transform":4685},{"File":4001},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":9667},{"StaticString":3808},{"Utility":2673461},{"Curl":48},{"PoolAlloc":2168},{"AI":80},{"TypeTree":8869},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":7208},{"WebRequest":6866},{"VR":47114},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"NativeArray":33039456},{"Camera":134433},{"Secure":265},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":552},{"Hierarchy":1176},{"UIElements":1186448},{"CoreStats":13688},{"Identifiers":6768},{"Gui":267608},{"EditorUtility":244908},{"VersionControl":8},{"Undo":931},{"AssetDatabase":495066},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":35345},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":64},{"DrivenProperties":72},{"LocalIPC":211},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3480},{"Windowing":456},{"Licensing":664},{"AssetReference":32},{"IPCStream":32}]}
+>>>>>>> Stashed changes

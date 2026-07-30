@@ -20,11 +20,7 @@ MonoBehaviour:
     height: 772.8
   m_ShowMode: 4
   m_Title: Scene
-<<<<<<< HEAD
   m_RootView: {fileID: 7}
-=======
-  m_RootView: {fileID: 6}
->>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
@@ -78,11 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 112}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 120
-=======
-  controlID: 90
->>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+  controlID: 46
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -258,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 47
+  controlID: 15
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -285,7 +277,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 56}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 48
+  controlID: 16
   draggingID: 0
 --- !u!114 &12
 MonoBehaviour:
@@ -651,6 +643,7 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     - m_rawData: 568105584918811980
@@ -666,16 +659,16 @@ MonoBehaviour:
     m_LastClickedID:
       m_rawData: 568105587066273791
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
-    m_ExpandedIDs:
-    - m_rawData: 568105589213755776
-    - m_rawData: 0
-<<<<<<< HEAD
-    - m_rawData: 568105584918811980
-    - m_rawData: 568105584918811982
 =======
-    - m_rawData: 568105584918811968
-    - m_rawData: 568105584918811970
->>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+    - m_rawData: 568105584918811990
+    m_LastClickedID:
+      m_rawData: 568105584918811990
+>>>>>>> Stashed changes
+    m_ExpandedIDs:
+    - m_rawData: 568105589213755796
+    - m_rawData: 0
+    - m_rawData: 568105584918811990
+    - m_rawData: 568105584918811992
     - m_rawData: 568105587066273791
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -710,13 +703,8 @@ MonoBehaviour:
       m_rawData: 0
     m_ExpandedIDs:
     - m_rawData: 0
-<<<<<<< HEAD
-    - m_rawData: 568105584918811980
-    - m_rawData: 568105584918811982
-=======
-    - m_rawData: 568105584918811968
-    - m_rawData: 568105584918811970
->>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
+    - m_rawData: 568105584918811990
+    - m_rawData: 568105584918811992
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -885,8 +873,8 @@ MonoBehaviour:
       - m_rawData: 568105589213756088
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Cylinder
-        m_OriginalName: Cylinder
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -894,10 +882,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_rawData: 568105584918811908
+          m_rawData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 5}
@@ -1310,6 +1298,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: -0.858449, y: 8.217011, z: 25.722828}
@@ -1325,6 +1314,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.077427864, y: 7.371292, z: -0.30755773}
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+    m_Target: {x: -4.797017, y: 2.0309713, z: 15.872632}
+    speed: 2
+    m_Value: {x: -4.797017, y: 2.0309713, z: 15.872632}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1371,14 +1365,19 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: 0.019126955, y: 0.97991323, z: -0.116377704, w: 0.16105719}
+=======
+    m_Target: {x: -0.00046210372, y: 0.99287564, z: -0.11912514, w: -0.0038718577}
+>>>>>>> Stashed changes
     speed: 2
-    m_Value: {x: 0.019319417, y: 0.9797342, z: -0.11754887, w: 0.16102777}
+    m_Value: {x: -0.00046210372, y: 0.99287564, z: -0.11912514, w: -0.003871858}
   m_Size:
-    m_Target: 1.2247453
+    m_Target: 5.44687
     speed: 2
+<<<<<<< Updated upstream
     m_Value: 1.2247462
 =======
     m_Target: {x: -0.10302957, y: -0.45814332, z: 0.053603746, w: -0.88129026}
@@ -1396,18 +1395,16 @@ MonoBehaviour:
 =======
     m_Value: 11.014716
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+    m_Value: 5.703529
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-<<<<<<< HEAD
     m_Speed: 1.06047
     m_SpeedNormalized: 0.53
-=======
-    m_Speed: 1.0005001
-    m_SpeedNormalized: 0.50000006
->>>>>>> eefeaf5076fe6a956ea262b9c56e58161e5199f4
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1

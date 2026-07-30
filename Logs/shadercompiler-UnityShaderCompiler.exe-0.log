@@ -1,6 +1,7 @@
 Base path: 'C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/6000.5.6f1/Editor/Data/PlaybackEngines', jobs: y
 Cmd: initializeCompiler
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 Cmd: compileSnippet
@@ -75,3 +76,6 @@ compileSnippet complete
 
 Cmd: shutdown
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+Cmd: shutdown
+>>>>>>> Stashed changes

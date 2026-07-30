@@ -1,31 +1,39 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 [2026-07-30T13:10:49.585Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 37596 --ipc-path Unity-Upm-37596 -l 2 --log-file C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game/Logs/upm.log
 [2026-07-30T13:10:49.725Z][INFO] IPC server started (IPC path=Unity-Upm-37596).
 [2026-07-30T13:10:49.726Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-37596.
 [2026-07-30T13:10:56.093Z][INFO] project:list-packages <-- Request received
+=======
+[2026-07-30T14:48:59.105Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 35112 --ipc-path Unity-Upm-35112 -l 2 --log-file C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game/Logs/upm.log
+[2026-07-30T14:48:59.183Z][INFO] IPC server started (IPC path=Unity-Upm-35112).
+[2026-07-30T14:48:59.184Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-35112.
+[2026-07-30T14:49:05.087Z][INFO] project:list-packages <-- Request received
+>>>>>>> Stashed changes
 params: {}
-[2026-07-30T13:10:56.405Z][INFO] config:project:get-registries <-- Request received
+[2026-07-30T14:49:05.323Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-30T13:10:56.420Z][INFO] config:project:get-registries --> 200 (15 ms)
-[2026-07-30T13:10:56.421Z][INFO] project:list-packages --> 200 (329 ms)
-[2026-07-30T13:10:56.430Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:49:05.339Z][INFO] config:project:get-registries --> 200 (15 ms)
+[2026-07-30T14:49:05.340Z][INFO] project:list-packages --> 200 (253 ms)
+[2026-07-30T14:49:05.352Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T13:10:56.526Z][INFO] project:list-packages --> 200 (95 ms)
-[2026-07-30T13:10:58.718Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:49:05.455Z][INFO] project:list-packages --> 200 (104 ms)
+[2026-07-30T14:49:07.609Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T13:10:58.756Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:49:07.649Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T13:10:58.837Z][INFO] config:project:get-registries <-- Request received
+[2026-07-30T14:49:07.740Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-30T13:10:58.850Z][INFO] config:project:get-registries --> 200 (13 ms)
-[2026-07-30T13:10:58.851Z][INFO] project:list-packages --> 200 (133 ms)
-[2026-07-30T13:10:58.885Z][INFO] project:list-packages --> 200 (129 ms)
-[2026-07-30T13:11:01.304Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:49:07.753Z][INFO] config:project:get-registries --> 200 (13 ms)
+[2026-07-30T14:49:07.754Z][INFO] project:list-packages --> 200 (146 ms)
+[2026-07-30T14:49:07.795Z][INFO] project:list-packages --> 200 (146 ms)
+[2026-07-30T14:49:10.139Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T13:11:01.507Z][INFO] project:list-packages --> 200 (203 ms)
-[2026-07-30T13:11:06.228Z][INFO] project:list-packages <-- Request received
+[2026-07-30T14:49:10.348Z][INFO] project:list-packages --> 200 (210 ms)
+[2026-07-30T14:49:13.838Z][INFO] project:list-packages <-- Request received
 params: {}
+<<<<<<< Updated upstream
 [2026-07-30T13:11:06.615Z][INFO] project:list-packages --> 200 (387 ms)
 =======
 [2026-07-30T13:15:37.205Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 2264 --ipc-path Unity-Upm-2264 -l 2 --log-file 'C:\\Users\\barna\\Documents\\home\\game with jenson\\Open-World-Game/Logs/upm.log'
@@ -66,3 +74,6 @@ params: {}
 =======
 [2026-07-30T13:17:12.279Z][INFO] project:list-packages --> 200 (404 ms)
 >>>>>>> be03193a4e4b6392105d85a0effc939e233c1b2c
+=======
+[2026-07-30T14:49:14.253Z][INFO] project:list-packages --> 200 (415 ms)
+>>>>>>> Stashed changes
