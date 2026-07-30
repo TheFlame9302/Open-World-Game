@@ -1,75 +1,27 @@
-<<<<<<< HEAD
-[2026-07-30T12:54:40.857Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 34864 --ipc-path Unity-Upm-34864 -l 2 --log-file C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game/Logs/upm.log
-[2026-07-30T12:54:40.954Z][INFO] IPC server started (IPC path=Unity-Upm-34864).
-[2026-07-30T12:54:40.955Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-34864.
-[2026-07-30T12:54:46.639Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:04:48.964Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 32684 --ipc-path Unity-Upm-32684 -l 2 --log-file C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game/Logs/upm.log
+[2026-07-30T13:04:49.090Z][INFO] IPC server started (IPC path=Unity-Upm-32684).
+[2026-07-30T13:04:49.091Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-32684.
+[2026-07-30T13:04:55.622Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T12:54:46.869Z][INFO] config:project:get-registries <-- Request received
+[2026-07-30T13:04:55.922Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-30T12:54:46.884Z][INFO] config:project:get-registries --> 200 (16 ms)
-[2026-07-30T12:54:46.886Z][INFO] project:list-packages --> 200 (247 ms)
-[2026-07-30T12:54:46.897Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:04:55.924Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T12:54:46.998Z][INFO] project:list-packages --> 200 (101 ms)
-[2026-07-30T12:54:47.022Z][INFO] project:resolve-packages <-- Request received
+[2026-07-30T13:04:55.964Z][INFO] config:project:get-registries --> 200 (42 ms)
+[2026-07-30T13:04:55.966Z][INFO] project:list-packages --> 200 (345 ms)
+[2026-07-30T13:04:56.057Z][INFO] project:list-packages --> 200 (133 ms)
+[2026-07-30T13:04:58.543Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T12:54:47.411Z][INFO] project:resolve-packages --> 200 (388 ms)
-[2026-07-30T12:54:54.453Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:04:58.596Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T12:54:54.519Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:04:58.689Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-07-30T12:54:54.603Z][INFO] config:project:get-registries <-- Request received
+[2026-07-30T13:04:58.711Z][INFO] config:project:get-registries --> 200 (22 ms)
+[2026-07-30T13:04:58.712Z][INFO] project:list-packages --> 200 (169 ms)
+[2026-07-30T13:04:58.755Z][INFO] project:list-packages --> 200 (158 ms)
+[2026-07-30T13:05:01.442Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T12:54:54.646Z][INFO] config:project:get-registries --> 200 (44 ms)
-[2026-07-30T12:54:54.647Z][INFO] project:list-packages --> 200 (194 ms)
-[2026-07-30T12:54:54.709Z][INFO] project:list-packages --> 200 (190 ms)
-[2026-07-30T12:54:57.942Z][INFO] project:list-packages <-- Request received
+[2026-07-30T13:05:01.689Z][INFO] project:list-packages --> 200 (248 ms)
+[2026-07-30T13:05:05.362Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-07-30T12:54:58.242Z][INFO] project:list-packages --> 200 (299 ms)
-[2026-07-30T12:55:01.449Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:55:01.588Z][INFO] project:list-packages --> 200 (138 ms)
-[2026-07-30T12:55:02.649Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:55:02.754Z][INFO] project:list-packages --> 200 (104 ms)
-=======
-[2026-07-30T12:36:46.625Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 3720 --ipc-path Unity-Upm-3720 -l 2 --log-file 'C:\\Users\\barna\\Documents\\home\\game with jenson\\Open-World-Game/Logs/upm.log'
-[2026-07-30T12:36:46.724Z][INFO] IPC server started (IPC path=Unity-Upm-3720).
-[2026-07-30T12:36:46.724Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-3720.
-[2026-07-30T12:36:51.982Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:36:52.368Z][INFO] project:list-packages --> 200 (387 ms)
-[2026-07-30T12:36:52.385Z][INFO] config:project:get-registries <-- Request received
-params: {}
-[2026-07-30T12:36:52.403Z][INFO] config:project:get-registries --> 200 (18 ms)
-[2026-07-30T12:36:52.415Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:36:52.695Z][INFO] project:list-packages --> 200 (279 ms)
-[2026-07-30T12:36:55.579Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:36:55.652Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:36:55.831Z][INFO] project:list-packages --> 200 (252 ms)
-[2026-07-30T12:36:55.885Z][INFO] config:project:get-registries <-- Request received
-params: {}
-[2026-07-30T12:36:55.902Z][INFO] config:project:get-registries --> 200 (17 ms)
-[2026-07-30T12:36:55.903Z][INFO] project:list-packages --> 200 (251 ms)
-[2026-07-30T12:36:58.851Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:36:59.070Z][INFO] project:list-packages --> 200 (219 ms)
-[2026-07-30T12:37:03.160Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:37:03.718Z][INFO] project:list-packages --> 200 (558 ms)
-[2026-07-30T12:41:05.459Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:41:05.784Z][INFO] project:list-packages --> 200 (325 ms)
-[2026-07-30T12:41:05.864Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:41:05.999Z][INFO] project:list-packages --> 200 (135 ms)
-[2026-07-30T12:41:10.642Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:41:10.782Z][INFO] project:list-packages --> 200 (139 ms)
-[2026-07-30T12:41:11.304Z][INFO] project:list-packages <-- Request received
-params: {}
-[2026-07-30T12:41:11.550Z][INFO] project:list-packages --> 200 (245 ms)
->>>>>>> 434852106f249d1590b6533922b796e325d70dc5
+[2026-07-30T13:05:05.710Z][INFO] project:list-packages --> 200 (348 ms)
