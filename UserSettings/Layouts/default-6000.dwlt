@@ -1287,13 +1287,13 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
-    m_Target: {x: -0.022536349, y: -0.9774096, z: 0.14412953, w: -0.15311661}
+    m_Target: {x: -0.10302957, y: -0.45814332, z: 0.053603746, w: -0.88129026}
     speed: 2
-    m_Value: {x: -0.025671761, y: -0.97406656, z: 0.14811888, w: -0.1691038}
+    m_Value: {x: -0.102946155, y: -0.45945182, z: 0.053756718, w: -0.88057727}
   m_Size:
     m_Target: 14.487769
     speed: 2
-    m_Value: 13.8638935
+    m_Value: 14.487769
   m_Ortho:
     m_Target: 1
     speed: 2
