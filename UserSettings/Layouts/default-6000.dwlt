@@ -584,7 +584,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Packages
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -594,7 +594,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Packages
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\barna\Documents\home\game with jenson\Open-World-Game
   m_LockTracker:
@@ -603,9 +603,9 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_rawData: 568105584918811968
+    - m_rawData: 568105587066273791
     m_LastClickedID:
-      m_rawData: 568105584918811968
+      m_rawData: 568105587066273791
     m_ExpandedIDs:
     - m_rawData: 568105589213755778
     - m_rawData: 0
@@ -674,9 +674,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
+    m_SelectedInstanceIDs:
+    - m_rawData: 568105584918811898
     m_LastClickedEntityId:
-      m_rawData: 0
+      m_rawData: 568105584918811898
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -806,9 +807,10 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_rawData: 568105584918811898
       m_LastClickedID:
-        m_rawData: 0
+        m_rawData: 568105584918811898
       m_ExpandedIDs:
       - m_rawData: 568105589213756088
       m_RenameOverlay:
@@ -1238,9 +1240,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -1.0461626, y: -0.6895523, z: 1.2421293}
+    m_Target: {x: -0.077427864, y: 7.371292, z: -0.30755773}
     speed: 2
-    m_Value: {x: -1.0461626, y: -0.6895523, z: 1.2421293}
+    m_Value: {x: -0.077427864, y: 7.371292, z: -0.30755773}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1287,13 +1289,13 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
-    m_Target: {x: -0.10302957, y: -0.45814332, z: 0.053603746, w: -0.88129026}
+    m_Target: {x: -0.010697323, y: 0.9608106, z: -0.2746175, w: -0.037190743}
     speed: 2
-    m_Value: {x: 0.103029564, y: 0.45814332, z: -0.053603742, w: 0.88129026}
+    m_Value: {x: -0.010285028, y: 0.960832, z: -0.2746237, w: -0.035748247}
   m_Size:
-    m_Target: 14.487769
+    m_Target: 10.519053
     speed: 2
-    m_Value: 14.487769
+    m_Value: 11.014716
   m_Ortho:
     m_Target: 1
     speed: 2
