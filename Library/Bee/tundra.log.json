@@ -168,6 +168,7 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"MovedFromExtractor-Combine Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll.mvfrm","enqueuedNodeIndex":165,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll (+2 others)","enqueueingNodeIndex":159}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll.mvfrm.rsp","enqueuedNodeIndex":164,"enqueueingNodeAnnotation":"MovedFromExtractor-Combine Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Editor.dll.mvfrm","enqueueingNodeIndex":165}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.pdb","enqueuedNodeIndex":169,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":6}
+<<<<<<< HEAD
 {"msg":"inputSignatureChanged","annotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.rsp2","index":3,"changes":[{"key":"WriteFilePayload","value":"/pathmap:\"C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game\"=.","oldvalue":null}]}
 {"msg":"inputSignatureChanged","annotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.UnityAdditionalFile.txt","index":1,"changes":[{"key":"WriteFilePayload","value":"C:\\Users\\Jenso\\OneDrive\\Documents\\GitHub\\Open-World-Game","oldvalue":null}]}
 {"msg":"runNodeAction","annotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Multiplayer.Center.Common.rsp2","displayName":"Writing Unity.Multiplayer.Center.Common.rsp2","index":3}
@@ -203,3 +204,5 @@
 {"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll","displayName":"Copying Unity.Multiplayer.Center.Editor.dll","index":168}
 {"msg":"noderesult","processed_node_count":166,"number_of_nodes_ever_queued":169,"annotation":"CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.pdb","index":169,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Unity.Multiplayer.Center.Editor.pdb"}
 {"msg":"noderesult","processed_node_count":167,"number_of_nodes_ever_queued":169,"annotation":"CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll","index":168,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Unity.Multiplayer.Center.Editor.dll"}
+=======
+>>>>>>> 434852106f249d1590b6533922b796e325d70dc5
